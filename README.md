@@ -1,0 +1,14 @@
+# camellia-user 11 RP1A.200720.011 21.11.24 release-keys
+- manufacturer: xiaomi
+- platform: mt6833
+- codename: camellia
+- flavor: camellia-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: 21.11.24
+- tags: release-keys
+- fingerprint: Redmi/camellia/camellia:11/RP1A.200720.011/21.11.24:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: camellia-user-11-RP1A.200720.011-21.11.24-release-keys
+- repo: redmi_camellia_dump
